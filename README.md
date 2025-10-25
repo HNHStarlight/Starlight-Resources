@@ -1,3 +1,3 @@
 Welcome to the Starlight GitHub page! Here, you will find all references used in my videos and all the code I create for the Manim visualizations. 
 
-Use the trees list to pick a video series by its title, and feel free to use the code in your own projects!
+Use the branches list to pick a video series by its title, and feel free to use the code in your own projects!
